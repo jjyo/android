@@ -1,0 +1,21 @@
+{
+  "formattedDate" : "10 月 12 日, 星期日",
+  "timeslots" : [ {
+    "timeSlotId" : "8f0d0649-9ba4-4c54-88d5-8452f5309bfa",
+    "formattedTime" : "4:00 PM-5:00 PM"
+  }, {
+    "timeSlotId" : "6d5e2160-3058-4db2-beca-445efc1a0bac",
+    "formattedTime" : "5:00 PM-6:00 PM"
+  }, {
+    "timeSlotId" : "d396287f-d24d-47fa-b2b9-5dab4222ef8c",
+    "formattedTime" : "6:00 PM-7:00 PM"
+  }, {
+    "timeSlotId" : "c98eac5a-d5b6-4532-afe8-6c982ae6edb3",
+    "formattedTime" : "7:00 PM-8:00 PM"
+  }, {
+    "timeSlotId" : "5a0c6c78-dbb2-4c63-9924-bfba42bbd01a",
+    "formattedTime" : "8:00 PM-9:00 PM"
+  } ],
+  "_flowExecutionKey" : "e2s3",
+  "p_ie" : "71631c66-549c-4db2-821f-a9a000bd26d0"
+}

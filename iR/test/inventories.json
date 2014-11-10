@@ -1,0 +1,14 @@
+{
+  "inventories" : [ {
+    "partNumber" : "MGAJ2ZP/A",
+    "available" : false
+  }, {
+    "partNumber" : "MGAK2ZP/A",
+    "available" : false
+  }, {
+    "partNumber" : "MGAH2ZP/A",
+    "available" : false
+  } ],
+  "_flowExecutionKey" : "e1s3",
+  "p_ie" : "7440e702-b306-4d06-931e-20546aeabc96"
+}

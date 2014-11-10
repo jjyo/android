@@ -1,0 +1,21 @@
+{
+  "stores": [
+    {
+      "storeNumber": "R485",
+      "storeName": "Festival Walk",
+      "storeEnabled": true
+    },
+    {
+      "storeNumber": "R409",
+      "storeName": "Causeway Bay",
+      "storeEnabled": true
+    },
+    {
+      "storeNumber": "R428",
+      "storeName": "ifc mall",
+      "storeEnabled": true
+    }
+  ],
+  "updatedTime": "21:18",
+  "updatedDate": "2014-09-22"
+}

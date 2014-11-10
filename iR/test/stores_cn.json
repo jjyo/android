@@ -1,0 +1,55 @@
+{
+  "updatedTime" : "9:06",
+  "stores" : [ {
+    "storeNumber" : "R320",
+    "storeName" : "三里屯",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R401",
+    "storeName" : "上海环贸 iapm",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R479",
+    "storeName" : "华贸购物中心",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R359",
+    "storeName" : "南京东路",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R502",
+    "storeName" : "成都万象城",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R574",
+    "storeName" : "无锡恒隆广场",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R389",
+    "storeName" : "浦东",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R484",
+    "storeName" : "深圳益田假日广场",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R448",
+    "storeName" : "王府井",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R388",
+    "storeName" : "西单大悦城",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R476",
+    "storeName" : "重庆北城天街",
+    "storeEnabled" : true
+  }, {
+    "storeNumber" : "R390",
+    "storeName" : "香港广场",
+    "storeEnabled" : true
+  } ],
+  "timezone" : "CST",
+  "updatedDate" : "10月20日 星期一",
+  "reservationURL" : "https://reserve-cn.apple.com/CN/zh_CN/reserve/iPhone"
+}
