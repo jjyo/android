@@ -1,6 +1,6 @@
 {
   "name": "iPhone Reserve",
-  "version": "2688",
+  "version": "2731",
   "versionShort": "2.4.6",
   "must": true,
   "changelog": "1.提前获取验证码 2.提高短信图识别率 3.提高挂机稳定性",
