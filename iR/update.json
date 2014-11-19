@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "2733",
-  "versionShort": "2.4.6",
+  "version": "2818",
+  "versionShort": "2.4.7",
   "must": true,
-  "changelog": "1.提前获取验证码 2.提高短信图识别率 3.提高挂机稳定性",
+  "changelog": "1. 修正了苹果使用新的证件代码! ",
   "update_url": "http://fir.im/iRe"
 }
