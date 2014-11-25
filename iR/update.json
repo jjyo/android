@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3089",
+  "version": "3102",
   "versionShort": "2.5.0",
-  "must": false,
-  "changelog": "1. 优化OCR识别库, 提升识别率!\n2. 优化挂机模式, 现在使用突击模式, 在挂机休眠状态下, 如果在库存扫描到会立即下订单! 提升稳定性!\n3. 添加自定义设置功能!自定义提醒, 库存扫描和挂机休眠的频率\n4. 修复了下订单有时会对一个型号重复的BUG!\n5. 其它功能优化!",
+  "must": true,
+  "changelog": "+修正了2.5.0(3089)版..挂机不断查货的, 导致被block ip 的BUG",
   "update_url": "http://fir.im/iRe"
 }
