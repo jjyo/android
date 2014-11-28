@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3102",
-  "versionShort": "2.5.0",
+  "version": "3165",
+  "versionShort": "2.5.1",
   "must": true,
-  "changelog": "+修正了2.5.0(3089)版..挂机不断查货的, 导致被block ip 的BUG",
+  "changelog": "1. 优化抢购时下订单时的判断!\n2. 优化突击模式, 更智能!\n3. 添加一个测试收发短信!",
   "update_url": "http://fir.im/iRe"
 }
