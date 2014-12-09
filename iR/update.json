@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3165",
-  "versionShort": "2.5.1",
+  "version": "3587",
+  "versionShort": "3.0.1",
   "must": false,
-  "changelog": "1. 优化抢购时下订单时的判断!\n2. 优化突击模式, 更智能!\n3. 添加一个测试收发短信!",
+  "changelog": "1. 修复了提前获取验证图的问题.\n2. 添加自动挂机功能!  如果被踢出会自动填验证码和自动发短信进入挂机模式!",
   "update_url": "http://fir.im/iRe"
 }
