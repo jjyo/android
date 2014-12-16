@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3587",
-  "versionShort": "3.0.1",
+  "version": "3618",
+  "versionShort": "3.0.2",
   "must": false,
-  "changelog": "1. 修复了提前获取验证图的问题.\n2. 添加自动挂机功能!  如果被踢出会自动填验证码和自动发短信进入挂机模式!",
+  "changelog": "1. 優化挂機模式，提高穩定性 和 突擊響應速度\n2. 優化搶購下定判斷，提高下單的速度\n3. 去掉國行預定，解決在某些機器上會地區錯亂的問題",
   "update_url": "http://fir.im/iRe"
 }
