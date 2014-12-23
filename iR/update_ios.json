@@ -3,6 +3,6 @@
   "version": "488",
   "versionShort": "1.0.0",
   "must": false,
-  "changelog": "测试版又更新了...",
+  "changelog": "测试版又更新了!!!",
   "update_url": "itms-services://?action=download-manifest&url=https://ssl.pgyer.com/app/plist/fb6211623449580ff8c6f41fc860f84e/s.plist"
 }
