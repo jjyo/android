@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3618",
-  "versionShort": "3.0.2",
+  "version": "3699",
+  "versionShort": "3.0.3",
   "must": false,
-  "changelog": "1. 優化挂機模式，提高穩定性 和 突擊響應速度\n2. 優化搶購下定判斷，提高下單的速度\n3. 去掉國行預定，解決在某些機器上會地區錯亂的問題",
+  "changelog": "1. 優化在預定第一順序型號沒貨，快速預定第二順序型號\n2. 優化取貨時間，多個時間段選擇，更加合理安排取貨時間\n3. 添加自動連續發送短信\n4. 優化個人信息列表",
   "update_url": "http://fir.im/iRe"
 }
