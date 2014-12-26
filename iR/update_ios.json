@@ -1,8 +1,8 @@
 {
-  "name": "iPhone Reserve",
-  "version": "572",
-  "versionShort": "1.0.0",
-  "must": true,
-  "changelog": "测试版又更新了!!!",
-  "update_url": "itms-services://?action=download-manifest&url=https://ssl.pgyer.com/app/plist/4fafe6c2e594aeaf1889e31884dbd9b7/s.plist"
+  "name": "iRbot",
+  "version": "731",
+  "versionShort": "1.1.0",
+  "must": false,
+  "changelog": "1. 添加库存提醒\n2. 适配小屏幕手机\n3. 优化预定下单流程\n4. 其它BUG修复",
+  "update_url": "itms-services://?action=download-manifest&url=https://ssl.pgyer.com/app/plist/02a7b60616c7339b1a9e5d35f8148152/s.plist"
 }
