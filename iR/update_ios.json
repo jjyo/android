@@ -1,8 +1,8 @@
 {
   "name": "iRbot",
-  "version": "731",
-  "versionShort": "1.1.0",
+  "version": "747",
+  "versionShort": "1.1.2",
   "must": false,
-  "changelog": "1. 添加库存提醒\n2. 适配小屏幕手机\n3. 优化预定下单流程\n4. 其它BUG修复",
-  "update_url": "itms-services://?action=download-manifest&url=https://ssl.pgyer.com/app/plist/02a7b60616c7339b1a9e5d35f8148152/s.plist"
+  "changelog": "修复某些机型安装失败的问题",
+  "update_url": "itms-services://?action=download-manifest&url=https://ssl.pgyer.com/app/plist/f7a91ac352f843a81a055f00fab4ac56/s.plist"
 }
