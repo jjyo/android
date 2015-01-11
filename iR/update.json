@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3699",
-  "versionShort": "3.0.3",
+  "version": "3825",
+  "versionShort": "3.0.4",
   "must": false,
-  "changelog": "1. 優化在預定速度\n2. 優化取貨時間，多個時間段選擇，更加合理安排取貨時間\n3. 添加自動連續發送短信\n4. 優化個人信息列表",
+  "changelog": "1. 添加定时预约功能, (手机版本不同定时会有差入)  2. 优化提醒界面排版!",
   "update_url": "http://fir.im/iRe"
 }
