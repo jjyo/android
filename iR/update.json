@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3825",
-  "versionShort": "3.0.4",
+  "version": "3888",
+  "versionShort": "3.0.5",
   "must": false,
-  "changelog": "1. 添加定时预约功能, (手机版本不同定时会有差入)  2. 优化提醒界面排版!",
-  "update_url": "http://fir.im/iRe"
+  "changelog": "1. 修改预定数据最多为10台",
+  "update_url": "http://fir.im/irbot"
 }
