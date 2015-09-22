@@ -1,21 +1,31 @@
 {
-  "stores": [
-    {
-      "storeNumber": "R485",
-      "storeName": "Festival Walk",
-      "storeEnabled": true
-    },
-    {
-      "storeNumber": "R409",
-      "storeName": "Causeway Bay",
-      "storeEnabled": true
-    },
-    {
-      "storeNumber": "R428",
-      "storeName": "ifc mall",
-      "storeEnabled": true
-    }
-  ],
-  "updatedTime": "21:18",
-  "updatedDate": "2014-09-22"
+  "updatedTime" : " 8:37",
+  "stores" : [ {
+    "storeNumber" : "R499",
+    "storeName" : "Canton Road",
+    "storeEnabled" : true,
+    "sellEdition" : true,
+    "storeCity" : ""
+  }, {
+    "storeNumber" : "R409",
+    "storeName" : "Causeway Bay",
+    "storeEnabled" : true,
+    "sellEdition" : false,
+    "storeCity" : ""
+  }, {
+    "storeNumber" : "R485",
+    "storeName" : "Festival Walk",
+    "storeEnabled" : true,
+    "sellEdition" : false,
+    "storeCity" : ""
+  }, {
+    "storeNumber" : "R428",
+    "storeName" : "ifc mall",
+    "storeEnabled" : true,
+    "sellEdition" : true,
+    "storeCity" : ""
+  } ],
+  "timezone" : "BST",
+  "updatedDate" : "9  11 ",
+  "reservationURL" : "https://reserve-hk.apple.com/HK/zh_HK/reserve/iPhone"
 }
