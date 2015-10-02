@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "3888",
-  "versionShort": "3.0.5",
+  "version": "4210",
+  "versionShort": "4.2.1",
   "must": false,
-  "changelog": "1. 修改预定数据最多为10台",
+  "changelog": "1. 修复不能输入资料的 BUG",
   "update_url": "http://fir.im/irbot"
 }
