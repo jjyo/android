@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "4210",
-  "versionShort": "4.2.1",
+  "version": "4220",
+  "versionShort": "4.2.2",
   "must": false,
-  "changelog": "1. 修复不能输入资料的 BUG",
+  "changelog": "1. 修复发送 SMS 时获取不到Timeslot的 BUG",
   "update_url": "http://fir.im/irbot"
 }
