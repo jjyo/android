@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "4220",
-  "versionShort": "4.2.2",
+  "version": "4250",
+  "versionShort": "4.2.5",
   "must": false,
-  "changelog": "1. 修复发送 SMS 时获取不到Timeslot的 BUG",
+  "changelog": "+优化了获取timeslot的速度和店铺提交流程\n+添加了自定义设置登录和提交订单的时间",
   "update_url": "http://fir.im/irbot"
 }
