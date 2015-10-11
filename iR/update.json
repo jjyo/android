@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "4250",
-  "versionShort": "4.2.5",
+  "version": "4260",
+  "versionShort": "4.2.6",
   "must": false,
-  "changelog": "+优化了获取timeslot的速度和店铺提交流程\n+添加了自定义设置登录和提交订单的时间",
+  "changelog": "+优化挂机, 挂机休眼时间可以设置10~20秒之间.",
   "update_url": "http://fir.im/irbot"
 }
