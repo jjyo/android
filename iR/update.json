@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "4260",
-  "versionShort": "4.2.6",
+  "version": "4320",
+  "versionShort": "4.3.2",
   "must": false,
-  "changelog": "+优化挂机, 挂机休眼时间可以设置10~20秒之间.",
+  "changelog": "修改可预定数量最大为10台",
   "update_url": "http://fir.im/irbot"
 }
