@@ -1,8 +1,8 @@
 {
   "name": "iPhone Reserve",
-  "version": "4320",
-  "versionShort": "4.3.2",
+  "version": "1",
+  "versionShort": "1.0.0",
   "must": false,
-  "changelog": "修改可预定数量最大为10台",
+  "changelog": "",
   "update_url": "http://fir.im/irbot"
 }
