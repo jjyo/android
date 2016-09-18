@@ -1,8 +1,8 @@
 {
-  "name": "iPhone Reserve",
-  "version": "1",
-  "versionShort": "1.0.0",
-  "must": false,
-  "changelog": "",
+  "name": "IRBot",
+  "version": "7006",
+  "versionShort": "7.0.2",
+  "must": true,
+  "changelog": "1. 优化库存提醒, JB为亮黑缩写\n2. 更新香港通行证ID\n3. 优化扫货速度",
   "update_url": "http://fir.im/irbot"
 }
