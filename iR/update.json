@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7006",
-  "versionShort": "7.0.2",
-  "must": true,
-  "changelog": "1. 优化库存提醒, JB为亮黑缩写\n2. 更新香港通行证ID\n3. 优化扫货速度",
+  "version": "7008",
+  "versionShort": "7.0.3",
+  "must": false,
+  "changelog": "更新香港apm Hong Kong零售店可选项",
   "update_url": "http://fir.im/irbot"
 }
