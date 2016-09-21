@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7008",
-  "versionShort": "7.0.3",
+  "version": "7013",
+  "versionShort": "7.0.4",
   "must": false,
-  "changelog": "更新香港apm Hong Kong零售店可选项",
+  "changelog": "1. 新增[强制提交]开关, 打开为如库存查不到的时候..还是会按照预设的型号强制提交, 适合在早上8点抢机时候使用\n2. 新增[监控突击]开关, 打开此楧式, APP 会在保持登录状态下, 如监控到库存提醒, 会马上提交预约(一般是用户预设的第一个型号), 此模式不容易被Block",
   "update_url": "http://fir.im/irbot"
 }
