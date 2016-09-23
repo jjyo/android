@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7015",
-  "versionShort": "7.0.5",
+  "version": "7016",
+  "versionShort": "7.0.6",
   "must": false,
-  "changelog": "优化了半小时短信超时自动重新发SMS\r\n优化了突击抢机速度和零售店选择",
+  "changelog": "添加了定时登入功能, 方便多台手机在指定时间操作登入",
   "update_url": "http://fir.im/irbot"
 }
