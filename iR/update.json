@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7016",
-  "versionShort": "7.0.6",
+  "version": "7017",
+  "versionShort": "7.0.7",
   "must": false,
-  "changelog": "添加了定时登入功能, 方便多台手机在指定时间操作登入",
+  "changelog": "优化强制提交自定义间隔, 在系统里设置, 防止提交过快容易封手机号",
   "update_url": "http://fir.im/irbot"
 }
