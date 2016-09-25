@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7017",
-  "versionShort": "7.0.7",
+  "version": "7018",
+  "versionShort": "7.0.8",
   "must": false,
-  "changelog": "优化强制提交自定义间隔, 在系统里设置, 防止提交过快容易封手机号",
+  "changelog": "1. 重新加入自动预约功能 \n2. 修复6.0系统短信自动发送和读取的 BUG",
   "update_url": "http://fir.im/irbot"
 }
