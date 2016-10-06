@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7019",
-  "versionShort": "7.0.9",
+  "version": "7026",
+  "versionShort": "7.1.1",
   "must": false,
-  "changelog": "修复了在非自动预约挂机状态下..短信超时不会自动重发 SMS 的 BUG..",
+  "changelog": "优化监控挂机, 会重动重登抢预设第2型号后的机型",
   "update_url": "http://fir.im/irbot"
 }
