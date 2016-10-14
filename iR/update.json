@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7026",
-  "versionShort": "7.1.1",
+  "version": "7036",
+  "versionShort": "7.1.2",
   "must": false,
-  "changelog": "优化监控挂机, 会重动重登抢预设第2型号后的机型",
-  "update_url": "http://fir.im/irbot"
+  "changelog": "增加澳门地区预约",
+  "update_url": "https://www.pgyer.com/irbot"
 }
