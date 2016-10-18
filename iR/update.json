@@ -1,8 +1,8 @@
 {
   "name": "IRBot",
-  "version": "7037",
-  "versionShort": "7.1.2",
+  "version": "7040",
+  "versionShort": "7.1.3",
   "must": false,
-  "changelog": "增加澳门地区预约",
+  "changelog": "1. 优化型号选择设置\n2. 提供地区多个短信号码发送选择\n3. 添加21:30~22:00取货时间",
   "update_url": "https://www.pgyer.com/irbot"
 }
